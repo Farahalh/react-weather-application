@@ -11,7 +11,7 @@ export default function App() {
         <a href="https://farahalh.com/" target="_blank" rel="noreferrer">
           Farah Alhaddad
         </a>
-         {""}and is{""}
+         {""} and is {""}
          <a href="https://github.com/Farahalh" target="_blank" rel="noreferrer">
           open-sourced on Github
         </a>
