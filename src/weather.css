@@ -2,8 +2,9 @@
   font-family: arial, sans-serif;
   border: 1px solid #dadde1;
   padding: 16px;
-  border-radius: 4px;
+  border-radius: 14px;
   color: rgb(135, 135, 135);
+  background: linear-gradient(180.3deg, rgb(214, 224, 255) 37.2%, rgb(254, 168, 168) 137.3%);
 }
 
 .Weather h1{
