@@ -3,8 +3,8 @@
   border: 1px solid #dadde1;
   padding: 16px;
   border-radius: 14px;
-  color: rgb(135, 135, 135);
-  background: linear-gradient(180.3deg, rgb(214, 224, 255) 37.2%, rgb(254, 168, 168) 137.3%);
+  color: white;
+  background: linear-gradient( #15BDF6, #1496F8, #4487E3);
 }
 
 .Weather h1{
@@ -34,7 +34,7 @@
 
 .Weather .temperature {
   font-weight: bold;
-  color: rgb(33, 33,33);
+  color: white;
   font-size: 64px;
   line-height: 64px;
   margin-left: 5px;
@@ -43,7 +43,7 @@
 }
 
 .Weather .unit {
-  color: rgb(33,33,33);
+  color:white);
   font-size: 16px;
   font-weight: 400;
   position: relative;
